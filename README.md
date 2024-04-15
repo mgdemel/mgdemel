@@ -1,4 +1,4 @@
-Hello! 👋 I'm a software developer with a lot of enthusiasm for positive impact and problem-solving. My way of working is solution-oriented and takes into account business goals, quality, usability, and scalability. I work best in a team with plenty of autonomy, feedback, and clarity. 
+Hello! 👋 I'm a full stack web developer with a lot of enthusiasm for positive impact and problem-solving. My way of working is solution-oriented and takes into account business goals, quality, usability, and scalability. I work best in a team with plenty of autonomy, feedback, and clarity. 
 
 Nothing makes me happier than when we reach our goals together! 🫶 Meaningful work, for me, means contributing to net positive social and environmental impact and empowering others at work.
 
