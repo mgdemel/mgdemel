@@ -6,4 +6,4 @@ Outside office hours, you'll usually find me away from the screen tending to pla
 
 ## Currently: 
 🖥️ Consultant @ Columbia Road  
-**JavaScript/TypeScript, React, Express, Node, Next, Strapi, PostgreSQL**  
+**JavaScript/TypeScript, Next, React, Express, Node, Strapi, PostgreSQL**  
